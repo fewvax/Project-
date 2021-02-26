@@ -1,2 +1,2 @@
 # Project-
-There are other pojects in the pipline that are private due until the papers are pbulished. 
+There are other projects in the pipeline that are private until the papers are published. 
